@@ -2,6 +2,11 @@
 A List of cool tech
 
 
+### Modules
+
+- [React-spring](https://github.com/drcmda/react-spring) - React animation library
+
+
 ### Design
 - [Haiku](https://www.haiku.ai/) - UI code builder works with react
 
