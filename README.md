@@ -16,7 +16,7 @@ A List of cool tech
 - [React-showroom](https://github.com/OpusCapita/react-showroom-client) - React documentation
 - [React-storybook](https://github.com/storybooks/storybook) - React documentation
 - [PhantomCss](https://github.com/HuddleEng/PhantomCSS) - Lets you spot the difference post render
-
+- [Learna](https://lernajs.io/) - Manages dependency hell?
 
 ### Programs...
 - [Glasswire](https://www.glasswire.com/) - firewall
