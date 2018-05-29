@@ -21,3 +21,6 @@ A List of cool tech
 ### Programs...
 - [Glasswire](https://www.glasswire.com/) - firewall
 - [Wwwhisper](https://elements.heroku.com/addons/wwwhisper) - Heroku lazy authentication (good for internal stuff?)
+
+### Emerging tech
+- [Blazor](https://github.com/aspnet/Blazor) - C# in your browser
