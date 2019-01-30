@@ -1,10 +1,12 @@
 # Cool-tech
 A List of cool tech
 
+### Frameworks/solutions
+- [Strapi](https://strapi.io/) - quick node CMS/api
+
 ### Modules
 - [React-spring](https://github.com/drcmda/react-spring) - React animation library
 - [Vega-Embed](https://github.com/vega/vega-embed) - Popular graphing
-- [Strapi](https://strapi.io/) - quick node CMS/api
 
 ### Design
 - [Haiku](https://www.haiku.ai/) - UI code builder works with react
