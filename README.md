@@ -26,3 +26,7 @@ A List of cool tech
 
 ### Emerging tech
 - [Blazor](https://github.com/aspnet/Blazor) - C# in your browser
+
+
+### Docs
+- [mdx-deck](https://github.com/jxnblk/mdx-deck) - Quick mdx cli
